@@ -1,0 +1,174 @@
+O que é Python?
+O Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML). Os desenvolvedores usam o Python porque é eficiente e fácil de aprender e pode ser executada em muitas plataformas diferentes. O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipos de sistema e agiliza o desenvolvimento.
+
+Quais são os benefícios do Python?
+Os benefícios do Python incluem:
+
+Os desenvolvedores podem ler e entender facilmente um programa Python, porque tem uma sintaxe básica semelhante à do inglês. 
+O Python aumenta a produtividade dos desenvolvedores, porque eles podem escrever um programa Python usando menos linhas de código em comparação a muitas outras linguagens.
+O Python tem uma grande biblioteca-padrão que contém códigos reutilizáveis para quase todas as tarefas. Como resultado, os desenvolvedores não precisam escrever códigos do zero.
+Os desenvolvedores podem usar o Python facilmente com outras linguagens de programação populares, como Java, C e C++.
+A comunidade ativa do Python inclui milhões de desenvolvedores de suporte em todo o mundo. Se você tiver algum problema, poderá obter suporte rápido da comunidade.
+Muitos recursos úteis estão disponíveis na Internet se você quiser aprender Python. Por exemplo, você pode encontrar facilmente vídeos, tutoriais, documentação e guias do desenvolvedor.
+É possível fazer a portabilidade do Python em diferentes sistemas operacionais de computação, como Windows, macOS, Linux e Unix.
+Como usar o Python?
+A linguagem Python tem vários casos de uso no desenvolvimento de aplicações, incluindo os exemplos a seguir:
+
+Desenvolvimento Web do lado do servidor
+O desenvolvimento Web do lado do servidor inclui as funções de backend complexas executadas pelos sites para exibir informações ao usuário. Por exemplo, os sites devem interagir com bancos de dados, interagir com outros sites e proteger os dados ao enviá-los pela rede. 
+
+O Python é útil para escrever código do lado do servidor, porque oferece muitas bibliotecas, que consistem em código pré-escrito para funções complexas de backend. Os desenvolvedores também usam uma ampla variedade de frameworks Python que fornecem todas as ferramentas necessárias para criar aplicações da Web com mais rapidez e facilidade. Por exemplo, os desenvolvedores podem criar o esqueleto da aplicação Web em segundos, porque não precisam escrever do zero. Eles podem testar usando as ferramentas de testes do framework sem depender de ferramentas externas.
+
+Automação com scripts Python
+Uma linguagem de script é uma linguagem de programação que automatiza tarefas que humanos normalmente executam. Os programadores usam amplamente scripts Python para automatizar muitas tarefas do dia a dia, como as seguintes:
+
+Renomear um grande número de arquivos de uma só vez
+Converter um arquivo em outro tipo de arquivo
+Remover palavras duplicadas em um arquivo de texto
+Executar operações matemáticas básicas
+Enviar mensagens de e-mail
+Baixar conteúdo
+Executar análise de log básica
+Encontrar erros em vários arquivos
+Ciência de dados e machine learning
+A ciência de dados consiste em extrair conhecimento relevante dos dados, e o machine learning (ML) ensina os computadores a aprender automaticamente com os dados e a fazer previsões precisas. Os cientistas de dados usam o Python para tarefas de ciência de dados como as seguintes:
+
+Corrigir e remover dados incorretos, o que é conhecido como limpeza de dados 
+Extrair e selecionar vários recursos de dados
+Rotulagem de dados, que é a adição de nomes significativos aos dados
+Encontrar estatísticas diferentes com base nos dados
+Visualizar dados usando tabelas e gráficos, como gráficos de linhas, gráficos de barras, histogramas e gráficos de pizza
+ 
+Os cientistas de dados usam bibliotecas Python de ML para treinar modelos de ML e criar classificadores que categorizam dados com precisão. Pessoas em diferentes campos usam classificadores baseados em Python para realizar tarefas de classificação, como classificação de imagens, textos e tráfego de rede; reconhecimento de fala; e reconhecimento facial. Os cientistas de dados também usam o Python para aprendizado profundo, uma técnica avançada de ML.
+Desenvolvimento de software
+Os desenvolvedores de software geralmente usam o Python para diferentes tarefas de desenvolvimento e aplicações de software, como as seguintes:
+
+Manutenção do controle de erros no código do software
+Construção automática do software
+Gerenciamento de projetos de software
+Desenvolvimento de protótipos de software
+Desenvolvimento de aplicações de desktop usando bibliotecas de interface gráfica do usuário (GUI)
+Desenvolvimento de jogos simples baseados em texto para videogames mais complexos
+Automação de testes de software
+O teste de software é o processo de verificar se os resultados reais do software correspondem aos resultados esperados para garantir que o software esteja livre de erros. 
+
+Os desenvolvedores usam frameworks de testes de unidade Python, como Unittest, Robot e PyUnit, para testar as funções que escrevem. 
+Os testadores de software usam o Python para escrever casos de teste para vários cenários de teste. Por exemplo, para testar a interface do usuário de uma aplicação Web, vários componentes de software e novos recursos. 
+Os desenvolvedores podem usar várias ferramentas para executar scripts de teste automaticamente. Essas ferramentas são conhecidas como ferramentas de continuous integration/continuous deployment (CI/CD – integração contínua/implantação contínua). Testadores e desenvolvedores de software usam ferramentas de CI/CD, como Travis CI e Jenkins, para automatizar testes. A ferramenta de CI/CD executa automaticamente os scripts de teste do Python e relata os resultados do teste sempre que os desenvolvedores acrescentam novas alterações no código.
+
+Qual é a história do Python?
+Guido Van Rossum, um programador de computador na Holanda, criou o Python. Ele começou em 1989 no Centrum Wiskunde & Informatica (CWI), inicialmente como um projeto de hobby para se manter ocupado durante o Natal. O nome da linguagem foi inspirado no programa de TV da BBC “Monty Python’s Flying Circus”, porque Guido Van Rossum era um grande fã do programa. 
+
+Histórico de versões do Python
+Guido Van Rossum publicou a primeira versão do código Python (versão 0.9.0) em 1991. Ela já incluía bons recursos, como alguns tipos de dados e funções para tratamento de erros. 
+O Python 1.0 foi lançado em 1994 com novas funções para processar facilmente uma lista de dados, como mapear, filtrar e reduzir.
+O Python 2.0 foi lançado em 16 de outubro de 2000, com novos recursos úteis para programadores, como suporte para caracteres Unicode e um modo mais rápido de percorrer uma lista.
+Em 3 de dezembro de 2008, foi lançado o Python 3.0. Ele incluía recursos como a função de impressão e mais suporte para divisão de números e tratamento de erros. 
+Quais são os principais recursos do Python?
+Os seguintes recursos da linguagem de programação Python a tornam única:
+
+Uma linguagem interpretada
+O Python é uma linguagem interpretada, o que significa que executa diretamente o código linha por linha. Se houver erros no código do programa, ele será interrompido. Portanto, os programadores podem encontrar rapidamente erros no código.
+
+Uma linguagem fácil de usar
+O Python usa palavras semelhantes às do inglês. Ao contrário de outras linguagens de programação, o Python não usa chaves. Em vez disso, usa recuo. 
+
+Uma linguagem com tipos dinâmicos
+Os programadores não precisam declarar tipos de variáveis ao escrever o código, porque o Python os determina no tempo de execução. Dessa forma, é possível escrever programas Python mais rapidamente.
+
+Uma linguagem de alto nível
+O Python está mais próximo das linguagens humanas do que outras linguagens de programação. Portanto, os programadores não precisam se preocupar com suas funcionalidades subjacentes, como arquitetura e gerenciamento de memória.
+
+Uma linguagem orientada a objetos
+O Python considera tudo como um objeto, mas também aceita outros tipos de programação, como estruturada e funcional.
+
+O que são bibliotecas Python?
+Uma biblioteca é uma coleção de códigos usados com frequência que os desenvolvedores podem incluir em seus programas Python para evitar escrever o código do zero. Por padrão, o Python vem com a Standard Library, que contém muitas funções reutilizáveis. Além disso, mais de 137 mil bibliotecas Python estão disponíveis para várias aplicações, incluindo desenvolvimento Web, ciência de dados e machine learning (ML).
+
+Quais são as bibliotecas Python mais populares?
+Matplotlib
+Os desenvolvedores usam o Matplotlib para representar dados em gráficos bidimensionais e tridimensionais (2D e 3D) de alta qualidade. É frequentemente usado em aplicações científicas. Com o Matplotlib, é possível visualizar dados em diferentes gráficos, como de barras e de linhas. Você também pode criar vários gráficos de uma só vez, e é possível fazer a portabilidade dos gráficos entre todas as plataformas.
+
+Pandas
+O Pandas fornece estruturas de dados otimizadas e flexíveis para manipular dados de séries temporais e dados estruturados, como tabelas e matrizes. Por exemplo, use o Pandas para ler, gravar, mesclar, filtrar e agrupar dados. Muitas pessoas o usam para ciência de dados, análise de dados e tarefas de ML.
+
+NumPy
+O NumPy é uma biblioteca popular que os desenvolvedores usam para criar e gerenciar facilmente arrays, manipular formas lógicas e realizar operações de álgebra linear. É compatível com a integração com muitas linguagens, como C e C++.
+
+Requests
+A biblioteca Requests fornece funções úteis que são necessárias para o desenvolvimento Web. Você pode usá-la para enviar solicitações HTTP, adicionar cabeçalhos, adicionar parâmetros de URL, adicionar dados e executar muitas outras tarefas ao se comunicar com aplicações da Web. 
+
+OpenCV-Python
+A OpenCV-Python é uma biblioteca que os desenvolvedores usam para processar imagens para aplicações de visão computacional. Ela fornece muitas funções para tarefas de processamento de imagens, como leitura e gravação de imagens simultaneamente, construção de um ambiente 3D com base em um ambiente 2D e captura e análise de imagens de vídeo.
+
+Keras
+A Keras é a biblioteca de rede neural profunda do Python, com excelente suporte para processamento de dados, visualização e muito mais. Ela é compatível com muitas redes neurais. Tem uma estrutura modular que oferece flexibilidade na escrita de aplicações de inovação.
+
+O que são frameworks Python?
+Um framework Python é uma coleção de pacotes e módulos. Um módulo é um conjunto de códigos relacionados, e um pacote é um conjunto de módulos. Os desenvolvedores podem usar frameworks Python para criar aplicações Python mais rapidamente, porque não precisam se preocupar com detalhes mínimos, a forma como as comunicações acontecem na aplicação Web nem como o Python tornará o programa mais rápido. O Python tem dois tipos de framework: 
+
+Um framework full stack inclui quase tudo o que é necessário para criar uma aplicação grande.
+Um microframework é um framework básico que fornece funcionalidades mínimas para criar aplicações Python simples. Ele também fornece extensões para casos em que as aplicações precisam de funções mais sofisticadas.
+Quais são os frameworks Python mais populares?
+Os desenvolvedores podem usar vários frameworks Python para tornar o desenvolvimento eficiente, incluindo os seguintes:
+
+Django
+O Django é um dos frameworks Web Python de pilha completa mais usados para o desenvolvimento de aplicações Web em larga escala. Ele fornece vários recursos úteis, incluindo um servidor da Web para desenvolvimento e testes, um mecanismo de modelo para criar o frontend de sites e vários mecanismos de segurança.
+
+Flask
+O Flask é um microframework para desenvolvimento de pequenas aplicações Web. Seus recursos incluem forte suporte da comunidade, documentação bem escrita, um mecanismo de modelo, testes de unidade e um servidor da Web integrado. Também fornece extensões para suporte de validação, camadas de mapeamento de banco de dados e segurança da Web.
+
+TurboGears
+O TurboGears é um framework projetado para criar aplicações Web de modo mais rápido e fácil. Estes são alguns de seus recursos conhecidos: 
+
+Uma estrutura específica de tabela de banco de dados
+Ferramentas para criar e gerenciar projetos
+Um mecanismo de modelo para criar os bancos de dados
+Um mecanismo de modelo para criar o frontend
+Mecanismos para lidar com a segurança na Web
+Apache MXNet
+O Apache MXNet é um framework de aprendizado profundo rápido, flexível e escalável que os desenvolvedores usam para criar protótipos de pesquisa e aplicações de aprendizado profundo. Ela é compatível com várias linguagens de programação, incluindo Java, C++, R e Perl. Fornece um conjunto avançado de ferramentas e bibliotecas para apoiar o desenvolvimento. Por exemplo, é possível encontrar um livro interativo de machine learning (ML), kits de ferramentas de visão computacional e modelos de aprendizado profundo para processamento de linguagem natural (PLN), que processa linguagem natural, como texto e fala.
+
+PyTorch
+O PyTorch é um framework de ML criado com base na biblioteca Torch, que é outra biblioteca de ML de código aberto.  Os desenvolvedores o usam para aplicações como PLN, robótica e visão computacional, encontrando informações significativas em imagens e vídeos. Eles também usam para executar essas aplicações em CPUs e GPUs.
+
+O que são IDEs Python?
+Um integrated development environment (IDE – ambiente de desenvolvimento integrado) é um software que oferece aos desenvolvedores as ferramentas necessárias para escrever, editar, testar e depurar código em um só lugar. 
+
+Quais são os IDEs Python mais populares?
+PyCharm
+A JetBrains, uma empresa tcheca que desenvolve ferramentas de software, criou o PyCharm. Ele tem uma edição gratuita da comunidade, que é adequada para pequenas aplicações Python, e uma edição profissional paga, que é adequada para criar aplicações Python de grande escala, com o seguinte conjunto completo de recursos:
+
+Preenchimento automático de código e inspeção de código
+Tratamento de erros e correções rápidas
+Limpeza de código sem alterar a funcionalidade
+Suporte para frameworks de aplicações Web como Django e Flask
+Compatibilidade com outras linguagens de programação, como JavaScript, CoffeeScript, TypeScript, AngularJS e Node
+Ferramentas científicas e bibliotecas como Matplotlib e NumPy
+Capacidade de executar, depurar, testar e implantar aplicações em máquinas virtuais remotas
+Um depurador para encontrar erros no código, um criador de perfil para identificar problemas de performance no código e um executor de testes para realizar testes de unidade
+Compatibilidade com bancos de dados
+IDLE
+O Ambiente Integrado de Desenvolvimento e Aprendizado (IDLE) é o IDE Python instalado por padrão (IDLE) é o IDE Python instalado por padrão. Ele foi desenvolvido apenas com Python usando o toolkit Tkinter GUI e oferece os seguintes recursos:
+ 
+Funciona em muitos sistemas operacionais, como Windows, Unix e macOS
+Fornece uma janela de shell para executar comandos e exibir a saída
+Oferece um editor de texto de várias janelas com realce de sintaxe de código e preenchimento automático de código
+Tem seu próprio depurador 
+Spyder
+O Spyder é um IDE de código aberto usado por muitos cientistas e analistas de dados. Ele fornece uma experiência de desenvolvimento abrangente com recursos para análise avançada de dados, visualização de dados e depuração. Além disso, contém os seguintes recursos:
+
+Um editor de código avançado com suporte para várias linguagens
+Um console IPython interativo
+Um depurador básico
+Bibliotecas científicas como Matplotlib, SciPy e NumPy
+Capacidade de explorar variáveis no código
+Capacidade de visualizar a documentação em tempo real
+Atom
+O Atom é um editor gratuito desenvolvido pelo GitHub compatível com codificação em muitas linguagens de programação, inclusive Python. Usando o Atom, os desenvolvedores podem trabalhar diretamente com o GitHub, o site em que você pode salvar seu código centralmente. O Atom oferece os seguintes recursos:
+
+Capacidade de usar com muitos sistemas operacionais 
+Fácil instalação ou criação de novos pacotes
+Preenchimento automático de código mais rápido
+Capacidade de pesquisar arquivos e projetos
+Fácil personalização da interface
